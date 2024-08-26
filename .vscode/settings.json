@@ -1,0 +1,6 @@
+{
+    "phpcs.standard": "WordPress",
+    "[php]": {
+        "editor.tabSize": 4,
+    }
+}
